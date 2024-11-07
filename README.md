@@ -47,4 +47,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/havvlok/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/havvlok/LeetCode/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
