@@ -4,11 +4,7 @@ class Solution {
         HashMap<Integer, Integer> h = new HashMap<>();
 
         for(int i : nums){
-            if(!h.containsKey(i)){
-                h.put(i , 1);
-            }else{
-                h.put(i, h.get(i)+1);
-            }
+            h.put(i,h.getOrDefault(i,0) + 1);
         }
 
         for (Map.Entry<Integer, Integer> entry : h.entrySet()) {
