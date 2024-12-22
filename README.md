@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/havvlok/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/havvlok/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/havvlok/LeetCode/tree/master/0229-majority-element-ii) |
+| [1651-shuffle-string](https://github.com/havvlok/LeetCode/tree/master/1651-shuffle-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/havvlok/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0242-valid-anagram](https://github.com/havvlok/LeetCode/tree/master/0242-valid-anagram) |
 | [1205-defanging-an-ip-address](https://github.com/havvlok/LeetCode/tree/master/1205-defanging-an-ip-address) |
+| [1651-shuffle-string](https://github.com/havvlok/LeetCode/tree/master/1651-shuffle-string) |
 ## Sliding Window
 |  |
 | ------- |
