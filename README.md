@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/havvlok/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/havvlok/LeetCode/tree/master/0229-majority-element-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/havvlok/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
+| [1646-kth-missing-positive-number](https://github.com/havvlok/LeetCode/tree/master/1646-kth-missing-positive-number) |
 | [1651-shuffle-string](https://github.com/havvlok/LeetCode/tree/master/1651-shuffle-string) |
 ## Hash Table
 |  |
@@ -111,4 +112,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/havvlok/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [1646-kth-missing-positive-number](https://github.com/havvlok/LeetCode/tree/master/1646-kth-missing-positive-number) |
 <!---LeetCode Topics End-->
