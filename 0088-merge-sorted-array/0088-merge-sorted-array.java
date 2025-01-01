@@ -5,22 +5,16 @@ class Solution {
         int j = n - 1;
         while(p >= 0){
             if(i < 0){
-                nums1[p] = nums2[j];
-                j--;
-                p--;
+                nums1[p--] = nums2[j--];
             }
             else if(j < 0){
                 break;
             }
             else if(nums1[i] >= nums2[j]){
-                nums1[p] = nums1[i];
-                i--;
-                p--;
+                nums1[p--] = nums1[i--];
             }
             else{
-                nums1[p] = nums2[j];
-                j--;
-                p--;
+                nums1[p--] = nums2[j--];
             }
         }
     }
